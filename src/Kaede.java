@@ -15,13 +15,13 @@ class PieChart {
     void en() {
         try {
 
-            double num0;
-            double num1;
-            double num2;
-            double num3;
+            final double num0;
+            final double num1;
+            final double num2;
+            final double num3;
 
-            String str;
-            String str1;
+            final String str;
+            final String str1;
 
             num0 = 32.3;
             num1 = 20.2;
